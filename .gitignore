@@ -1,0 +1,6 @@
+logs/
+.ipynb_checkpoints
+bin/
+lib/
+test_notebooks/
+aepsych/
