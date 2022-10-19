@@ -19,8 +19,7 @@ for Interactive AEPsych and activated it, you can install the requirements
 using pip:
 
 ```bash
-git clone https://github.com/Eric-Cortez/voila.git
-cd voila/
+git clone <link here>
 pip install -r requirements.txt
 ```
 
