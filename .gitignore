@@ -2,3 +2,4 @@ bin/
 lib/
 notebooks/.ipynb_checkpoints/
 notebooks/logs/*
+other/
