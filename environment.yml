@@ -1,3 +1,6 @@
+name: binder-environment
+channels:
+  - conda-forge
 dependencies:
   - python==3.9.4
   - pip==22.1.1
