@@ -9,6 +9,5 @@ dependencies:
     - ipyvolume
     - scipy
     - voila
-    - panel
     - ipywidgets==7.7.1
     - jupyterlab>=3.1
