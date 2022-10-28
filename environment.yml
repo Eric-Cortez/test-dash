@@ -3,6 +3,8 @@ dependencies:
   - python==3.8.10 #
   - pip==21.0 #
   - pip:
+    - aepsych==0.2.0
+    - aepsych-client==0.1.1
     - spacy==2.3.5 #==2.2.4
     - viola==0.3.8 #, ==0.2.16
     - language-tool-python==2.6.1 #
