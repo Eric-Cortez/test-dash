@@ -7,6 +7,8 @@ dependencies:
 - ipywidgets
 - jupyterlab>=3.1
 - voila>=0.2.11
+- aepsych==0.2.0
+- aepsych-client==0.1.1
 
 
 # dependencies:
