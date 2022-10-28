@@ -1,51 +1,13 @@
-#versions: myenv, binderenv, myenvextras
-name: voila
-channels:
-  - conda-forge
 dependencies:
-  - jupyterlab=3
-  - ipywidgets=7.5.0
-  - ipyvolume
-  - bqplot
-  - scipy
-  - ipympl
-  - xleaflet=0.16.0
-  - xeus-cling=0.13.0
-  - viola==0.3.8
-  - aepsych==0.2.0
-  - aepsych-client==0.1.1
-
-
-
-# dependencies:
-#   - python==3.8.10 #
-#   - pip==21.0 #
-#   - pip:
-#     - aepsych==0.2.0
-#     - aepsych-client==0.1.1
-#     - spacy==2.3.5 #==2.2.4
-#     - viola==0.3.8 #, ==0.2.16
-#     - language-tool-python==2.6.1 #
-#     - fastai==2.2.7 #==2.5.2
-#     - ipywidgets==7.5.0 #==7.6.3
-#     - pydicom==2.1.2 #==2.2.2
-#     - kornia==0.4.1 #==0.5.11
-#     - scikit-image==0.16.2 #==0.18.3
-#     - Pillow==7.0.0 #
-
-
-
-
-# dependencies:
-#   - python==3.9.4
-#   - pip==22.1.1
-#   - pip:
-#     - aepsych==0.2.0
-#     - aepsych-client==0.1.1
-#     - bqplot
-#     - ipympl
-#     - ipyvolume
-#     - scipy
-#     - viola==0.3.8
-#     - ipywidgets==7.5.0
-#     - jupyterlab>=3.1
+  - python==3.9.4
+  - pip==22.1.1
+  - pip:
+    - aepsych==0.2.0
+    - aepsych-client==0.1.1
+    - bqplot
+    - ipympl
+    - ipyvolume
+    - scipy
+    - viola==0.3.8
+    - ipywidgets==7.5.0
+    - jupyterlab>=3.1
