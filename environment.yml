@@ -10,5 +10,5 @@ dependencies:
     - scipy
     - voila
     - ipywidgets==7.7.1
-    - jupyterlab>=3.1
+    # - jupyterlab>=3.1
     - jupyterlab-widgets==2.0
