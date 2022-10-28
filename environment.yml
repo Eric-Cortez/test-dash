@@ -8,7 +8,7 @@ dependencies:
     - ipympl
     - ipyvolume
     - scipy
-    - voila
+    - voila==0.2.16
     - ipywidgets==7.7.1
     # - jupyterlab>=3.1
-    - jupyterlab-widgets==2.0
+    - jupyterlab-widgets==1.1.1
