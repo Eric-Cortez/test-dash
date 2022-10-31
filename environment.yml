@@ -8,5 +8,5 @@ dependencies:
     - ipympl
     - ipyvolume
     - scipy
-    - voila==0.3.6
-    - ipywidgets
+    - voila
+    - ipywidgets==8
