@@ -1,12 +1,34 @@
-dependencies:
-  - python==3.9.4
-  - pip==22.1.1
-  - pip:
-    - aepsych==0.2.0
-    - aepsych-client==0.1.1
-    - bqplot
-    - ipympl
-    - ipyvolume
-    - scipy
-    - voila
-    - ipywidgets==8
+name: docs
+channels:
+  - conda-forge
+  - conda
+  dependencies:
+    - pip
+    - pip:
+      - aepsych==0.2.0
+      - aepsych-client==0.1.1
+      - bqplot
+      - ipympl
+      - ipyvolume
+      - scipy
+      - voila
+      - ipywidgets==8
+
+
+
+
+
+
+
+# dependencies:
+#   - python==3.9.4
+#   - pip==22.1.1
+#   - pip:
+#     - aepsych==0.2.0
+#     - aepsych-client==0.1.1
+#     - bqplot
+#     - ipympl
+#     - ipyvolume
+#     - scipy
+#     - voila
+#     - ipywidgets==8
