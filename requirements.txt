@@ -4,5 +4,5 @@ bqplot
 ipympl
 ipyvolume
 scipy
-voila==0.3.8
-ipywidgets==8
+voila==0.3.6
+ipywidgets==7.6.5
