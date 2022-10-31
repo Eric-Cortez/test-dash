@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python==3.9.4
   - pip==22.1.1
-  - jupyterlab==3.0.0
+  - jupyterlab==3.4.4
   - pip:
     - aepsych==0.2.0
     - aepsych-client==0.1.1
